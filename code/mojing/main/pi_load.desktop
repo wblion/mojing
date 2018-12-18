@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=test
+Comment=Python Program
+Exec=python /home/pi/share/code/mojing/core/response.py
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true

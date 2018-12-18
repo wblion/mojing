@@ -1,0 +1,1 @@
+python "/home/pi/share/code/mojing/core/response.py"

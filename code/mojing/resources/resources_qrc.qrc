@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>plant_library.png</file>
+    <file>publish_plant.png</file>
+  </qresource>
+</RCC>
